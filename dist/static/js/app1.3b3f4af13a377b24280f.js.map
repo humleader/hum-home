@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/js/index1.js"],"names":["__WEBPACK_IMPORTED_MODULE_1_jquery___default","$"],"mappings":"uKAGAA,GAAE,SAAUC","file":"static/js/app1.3b3f4af13a377b24280f.js","sourcesContent":["import '../less/index1.less'\nimport $ from 'jquery'\n\n$(function ($) {\n})\n\n\n\n// WEBPACK FOOTER //\n// ./src/js/index1.js"],"sourceRoot":""}
